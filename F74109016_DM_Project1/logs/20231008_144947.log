@@ -1,0 +1,1 @@
+2023-10-08 14:49:47,902 [main.py:45] INFO: Arguments: Namespace(min_sup=0.1, min_conf=0.3, dataset='ibm-2023-released.txt')

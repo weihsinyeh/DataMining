@@ -1,0 +1,1 @@
+2023-10-06 16:59:47,316 [main.py:45] INFO: Arguments: Namespace(min_sup=0.05, min_conf=0.05, dataset='data.csv')
